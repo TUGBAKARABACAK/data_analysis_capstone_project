@@ -1,6 +1,6 @@
-# Northwind Trades Veri Analizi
+# Northwind Veri Analizi
 
-Bu proje, Northwind Traders verilerini içeren bir veri setini analiz edip, görselleştirmek için yapılmıştır. Northwind Trader verileri üzerinde yapılan bu çalışma, verilerin analiz edilmesi ve anlamlı bilgilerin çıkarılması amacını taşır. Bu projede:
+Bu proje, Northwind verilerini içeren bir veri setini analiz edip, görselleştirmek için yapılmıştır. Northwind verileri üzerinde yapılan bu çalışma, verilerin analiz edilmesi ve anlamlı bilgilerin çıkarılması amacını taşır. Bu projede:
 
 - **Keşifsel Veri Analizi (EDA)** kullanılarak, verilerin Python kullanılarak detaylı bir şekilde incelenmesi ve görselleştirilmesi.
 - **SQL Sorguları** kullanılarak, veritabanı üzerinde yapılan sorgular ile veri analizlerinin gerçekleştirilmesi sağlanmıştır.
@@ -10,8 +10,8 @@ Bu proje, Northwind Traders verilerini içeren bir veri setini analiz edip, gör
 
 Proje kapsamında kullanılan veri seti, şu dosyalardan oluşmaktadır:
 
-- `Capstone Veriseti Analizi.ipynb`: Northwind Trader verileri üzerinde yapılan Keşifsel Veri Analizini (EDA) içeren Jupyter Notebook dosyası.
-- `SQL Analizi.sql`: Northwind Trader veritabanı üzerinde yapılan SQL sorgularını içeren dosya.
+- `Capstone Veriseti Analizi.ipynb`: Northwind verileri üzerinde yapılan Keşifsel Veri Analizini (EDA) içeren Jupyter Notebook dosyası.
+- `SQL Analizi.sql`: Northwind veritabanı üzerinde yapılan SQL sorgularını içeren dosya.
 - `PowerBI Raporu.pbix`: Power BI kullanılarak oluşturulan görselleştirmeleri içeren dosya.
 
 ## Kullanılan Araçlar
